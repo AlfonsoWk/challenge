@@ -9,9 +9,6 @@ cypress/videos/
 cypress/screenshots/
 cypress/reports/
 
-# Cypress binary cache
-Cypress/
-
 # Environment files
 .env
 .env.*
